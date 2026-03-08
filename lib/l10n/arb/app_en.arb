@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+  "appTitle": "Flutter Skeleton",
+  "@appTitle": {
+    "description": "The application title"
+  },
+  "welcome": "Welcome",
+  "@welcome": {
+    "description": "Welcome message"
+  }
+}
